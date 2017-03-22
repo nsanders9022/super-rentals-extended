@@ -16,7 +16,7 @@ module.exports = function(environment) {
         Date: false
       }
     },
-    
+
     // Initialize Firebase
     firebase: {
       apiKey: "AIzaSyAKA71ubtdKWnByqegKSqKwpW7FWPLhq18",
